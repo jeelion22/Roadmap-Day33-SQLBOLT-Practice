@@ -62,7 +62,7 @@ No installation is required except a latest web browser.
 
 ## Usage
 
-The webpage is a reference for how tasks looks in [SQLBOLT](https://sqlbolt.com/).
+This is a reference for how tasks looks in [SQLBOLT](https://sqlbolt.com/).
 
 ## License
 
@@ -70,6 +70,6 @@ MIT License
 
 ## Acknowledgements
 
-I thank [SQLBOLT](https://sqlbolt.com/) for their efforts to made such a tutorials that give opportunities to ALL learn SQL without any restriction.
+I thank [SQLBOLT](https://sqlbolt.com/) for their efforts to made such a tutorials that gives opportunities to ALL to learn SQL without any restriction.
 
 ---
